@@ -1,19 +1,23 @@
 # TODO 🚧
 
-Your new site is all yours so it doesn't matter if you break it! Try editing the code–add a button element that moves when the user clicks it.
+Private voice acting lessons? Acting classes? Improv club?
 
-In `index.html`, add this code on the line after the comment with `ADD BUTTON HERE` in it (you can copy and paste the button element HTML):
+Fandubs under @TofuTigerr:
+* FE3H as Edelgard (EN & CN)
+* Genshin Gaming (Cantonese reading of CN text)
+* Warriors books (selected characters)
+* Pokémon Special (including Pokémon sounds)
+* Various fancomics dubs
 
-```html
-<button>
-    Click me!
-</button>
-```
-
-Look at the page to see the button. Click it!
-
-Open `script.js` to see the script that makes the button move.
+"My voice acting journey began with fandubs. As I am an avid fandom participator, 
+I started with doing silly voices while cosplaying at fan conventions at friends' requests. 
+This soon evolved into..."
 
 ## Keep going! 🚀
 
-Try adding more properties to the CSS `dipped` style for the button to see how the changes appear on click.
+I can dub in English, Mandarin Chinese, and Cantonese. (in my dreams)
+
+For full transparency purposes:
+* English   ███████████████
+* Mandarin ⠀███████
+* Cantonese █████
