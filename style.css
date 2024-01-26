@@ -1,0 +1,133 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f7f4; /* Light mint green background color for body */
+    color: #333; /* Dark text color */
+}
+
+.professional-header {
+    background-color: #2a9d8f; /* Teal header background */
+    color: #fff; /* White text color for contrast */
+    text-align: center;
+    padding: 1em;
+}
+
+.professional-logo img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.professional-header h1 {
+    font-family: 'Seaweed Script', cursive; /* Use Seaweed Script font for the name */
+    font-size: 3em; /* Adjust the font size for the name */
+    font-weight: 300; /* Lighter font weight */
+    margin-bottom: 0.2em; /* Add margin bottom for spacing */
+}
+
+.professional-header h2 {
+    font-size: 1em; /* Adjust the font size for the subtitle */
+    margin-top: 0; /* Remove default top margin */
+}
+
+.professional-nav {
+    background-color: #5cbf9c; /* Mint green navigation background */
+    color: #fff;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.professional-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.professional-nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.professional-nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.professional-nav a:hover {
+    color: #3a8563; /* Darker mint green on hover */
+}
+
+.professional-section {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 1em;
+    background-color: #fff; /* White background for sections */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+}
+
+.polaroid {
+    position: relative;
+    width: 100%;
+    max-width: 250px; /* Adjust the max-width to make it smaller */
+    margin-right: 20px; /* Add margin to move it to the left */
+    border: 1px solid #ccc; /* Border for the polaroid effect */
+    border-radius: 8px;
+    overflow: hidden;
+    transform: rotate(-3deg); /* Rotate to the left by 3 degrees */
+}
+
+.polaroid img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ccc; /* Border between photo and caption */
+}
+
+.caption {
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.about-text {
+    flex: 1; /* Allow the text to take up remaining space */
+}
+
+.professional-section h2 {
+    color: #2a9d8f; /* Teal text color for section titles */
+}
+
+.professional-section h3 {
+    color: #48c2b5; /* Teal text color for section titles */
+}
+
+.professional-footer {
+    background-color: #2a9d8f; /* Teal footer background */
+    color: #fff;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.social-icons {
+      text-align: center;
+}
+
+.social-icons a {
+    color: #2a9d8f; /* Teal color for icons */
+    margin: 0 10px;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #3a8563; /* Darker teal on hover */
+}
